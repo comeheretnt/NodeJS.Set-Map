@@ -1,4 +1,3 @@
-
 const friends = new Set();
 
 friends.add('Alice');

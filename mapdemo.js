@@ -1,4 +1,3 @@
-
 const students = new Map();
 
 students.set(1, { name: 'Alice', age: 20 });
